@@ -177,4 +177,5 @@ namespace profdetech_robot{
     export function capt_vide(): number {
 		return pins.digitalReadPin(DigitalPin.P8);
     }
-	
+
+}
